@@ -1,0 +1,21 @@
+﻿  usbSDKdemo.cpp
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(182): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(190): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(300): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(337): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(343): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(344): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(350): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(356): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(357): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(429): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(677): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(708): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(741): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统(30符号)-v1\devicedemo\usbsdkdemo.cpp(866): warning C4018: “<”: 有符号/无符号不匹配
+  devicedemo.vcxproj -> C:\Users\nk\Desktop\复合手势指令制备优化最小系统(30符号)-V1\Debug\devicedemo.exe
+  devicedemo.vcxproj -> C:\Users\nk\Desktop\复合手势指令制备优化最小系统(30符号)-V1\Debug\devicedemo.pdb (Full PDB)
